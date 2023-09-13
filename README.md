@@ -1,2 +1,2 @@
 # AQI
-Prediction of AQI using machine and deep learning learning models
+Prediction of AQI(Air Quality Index) using machine and deep learning learning models
